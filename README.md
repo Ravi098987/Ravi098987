@@ -32,9 +32,15 @@
 
 ### 📝 Latest Projects
 - E-Learning Platform (PHP, MySQL)
-- Image Captioning using ML
+-  Next.js Project Management App
+Built with Next.js, TypeScript, Tailwind CSS; AWS Cognito for auth, RDS (PostgreSQL) backend, Node.js
+API, AWS deployment.
 - IPO Fintech Web App (Angular + Node.js)
-- Smart India Hackathon – Agri Commodity Price Predictor
+- Cloud-Based Network Monitoring System (In Development)
+Scalable React/Node/TypeScript tool using AWS VPC Flow Logs, CloudWatch, Lambda, SNS, S3, IAM
+RBAC, Terraform, CI/CD.
+-  AgriML – Smart India Hackathon (AI for Agri-Pricing)
+Led ML modeling for price forecasting using regression, scikit-learn pipelines, and real datasets.
 
 ---
 
