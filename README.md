@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Ravi Singh</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Ravishankar  Singh</h1></summary>
   </ul>
 </div>
 
@@ -33,7 +33,7 @@
 
 - 💬 Ask me about **React, Node.js, MongoDB, Android Studio & AWS**
 
-- 📫 Reach me at **your-email@gmail.com**
+- 📫 Reach me at **singhravi2248@gmail.com**
 
 - ⚡ Fun fact: **Confusion is part of programming 😄**
 <!--Intro end-->
@@ -47,20 +47,20 @@
 
 <td width="50%" align="center">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ravi098987&theme=dark&show_icons=true&count_private=true" />
   
   <br><br>
   
   <img title="🔥 Get streak stats for your profile"
        alt="streak stats"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=false" /> 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Ravi098987&theme=dark&hide_border=false" /> 
 
 </td>
 
 <td width="50%" align="center">
 
   <img align="center"
-       src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+       src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ravi098987&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
 </td>
 
@@ -74,7 +74,7 @@
 <!--- trophy (start) -->
 <div align="center">
   <img width="84%"
-       src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true"
+       src="https://github-profile-trophy.vercel.app/?username=Ravi098987&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true"
        alt="trophy" />
 </div>
 <!--- trophy (end) -->
@@ -106,7 +106,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/" target="blank">
+<a href="https://www.linkedin.com/in/ravi101/" target="blank">
 <img align="center"
      src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png"
      alt="linkedin"
@@ -114,18 +114,10 @@
      width="50" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME" target="blank">
+<a href="https://github.com/Ravi098987" target="blank">
 <img align="center"
      src="https://cdn-icons-png.flaticon.com/512/25/25231.png"
      alt="github"
-     height="50"
-     width="50" />
-</a>
-
-<a href="https://www.instagram.com/" target="blank">
-<img align="center"
-     src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png"
-     alt="instagram"
      height="50"
      width="50" />
 </a>
@@ -137,7 +129,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ravi098987&icon=3&color=6)](https://visitcount.itsvg.in)
 
 </div>
 
